@@ -1,5 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-by sachin and is much minified than any other boilerplate
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+and is much minified than any other boilerplate by me
 ## Available Scripts
 
 In the project directory, you can run:
